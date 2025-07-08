@@ -1,0 +1,16 @@
+:root {
+    --color-bg: #e0eeeb;
+    --red: #feae77;
+    --green: #9ad2df;
+    --yellow: #feb951;
+    --darkyellow: #b69e31;
+    --gray: #d5ccc7;
+    --blue: #0170a2;
+    --transblue: #0270a236;
+    --text: #232323;
+    --bubble: white;
+    --border: #173b5a26;
+    --borderaccent: #1d1d1d59;
+    --logo: var(--blue);
+    --pad: 20px;
+}
